@@ -9,6 +9,10 @@ header:
   overlay_image: "/media/br-pr-cwb-marti-fachada-cm-20240306-0001.jpg"
   caption: "Fachada da casa em 2024. Foto: Constanza Manzochi"
 format:
+  extent:
+      - type : "área"
+        text : "110"
+        unit : "m²"
   medium:
     material:
       - type : "medium"
